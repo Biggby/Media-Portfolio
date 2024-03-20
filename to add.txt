@@ -1,0 +1,3 @@
+Music Button - <i class="fa-solid fa-music"></i>
+Anime Button - <i class="fa-solid fa-video"></i>
+Games Button - <i class="fa-solid fa-gamepad"></i>
