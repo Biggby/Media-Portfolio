@@ -33,7 +33,7 @@ ul {
     margin-right: 35px;
 }
 body ul a:hover {
-    color: purple;
+    color: #ce7ce7;
 }
 
 
@@ -64,9 +64,10 @@ form{
 }
 
 .directory {
+    color: #ce7ce7;
     padding: 50px;
-    font-size: 20px;
-    background: #25272626;
+    font-size: 30px;
+    background: #0bb93fd2;
   }
 
 ul > img {
